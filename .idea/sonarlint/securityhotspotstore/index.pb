@@ -5,3 +5,5 @@ J
 contracts/integration.clar,5/e/5e3a240af93fd30109cc3d4a23438106f29b1ba1
 I
 tests/integration.test.ts,f/2/f2d6e5c039e15b65412cdd0eb94393fc19792655
+G
+contracts/treasury.clar,4/e/4e0348f51b734f9b69f3d22102d50687fbbd267c
