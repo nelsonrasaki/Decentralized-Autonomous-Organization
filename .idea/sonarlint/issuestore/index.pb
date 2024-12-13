@@ -9,3 +9,5 @@ G
 contracts/treasury.clar,4/e/4e0348f51b734f9b69f3d22102d50687fbbd267c
 F
 tests/treasury.test.ts,7/2/72fe0b0420717b695b8e83752e509f354a94ce57
+G
+contracts/proposal.clar,f/5/f5c7e433a9279c796f1dd33a2eefccdb776c811d
