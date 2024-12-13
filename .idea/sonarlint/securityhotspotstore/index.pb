@@ -7,3 +7,5 @@ I
 tests/integration.test.ts,f/2/f2d6e5c039e15b65412cdd0eb94393fc19792655
 G
 contracts/treasury.clar,4/e/4e0348f51b734f9b69f3d22102d50687fbbd267c
+F
+tests/treasury.test.ts,7/2/72fe0b0420717b695b8e83752e509f354a94ce57
