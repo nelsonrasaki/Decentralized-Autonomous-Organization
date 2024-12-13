@@ -11,3 +11,5 @@ F
 tests/treasury.test.ts,7/2/72fe0b0420717b695b8e83752e509f354a94ce57
 G
 contracts/proposal.clar,f/5/f5c7e433a9279c796f1dd33a2eefccdb776c811d
+F
+tests/proposal.test.ts,4/0/4012dd6102eefc77ada8e8f5f7293cec344e99aa

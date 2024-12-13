@@ -60,6 +60,11 @@ plan:
             path: contracts/integration.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: proposal
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/proposal.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: treasury
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/treasury.clar
